@@ -15,8 +15,9 @@ namespace mf_backend.Models
         public string Placa { get; set; }
 
         [Required(ErrorMessage = "Ano de fabricação obrigatório")]
+        [Display(Name = "Ano de Fabricação")]
         public int AnoFabricacao { get; set; }
-
+        [Display(Name = "Ano do Modelo")]
         [Required(ErrorMessage = "Ano do Modelo obrigatório")]
         public int AnoModelo { get; set; }
     }
