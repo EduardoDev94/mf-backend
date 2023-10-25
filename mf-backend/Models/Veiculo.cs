@@ -20,5 +20,7 @@ namespace mf_backend.Models
         [Display(Name = "Ano do Modelo")]
         [Required(ErrorMessage = "Ano do Modelo obrigatório")]
         public int AnoModelo { get; set; }
+
+        public ICollection<Consumo> Consumos { get; set; }
     }
 }
