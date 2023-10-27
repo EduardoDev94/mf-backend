@@ -35,7 +35,8 @@ senha:123456<br/>
 ### Ao clicar no nome do carro na aba veículos é vinculado relatório a seguir contendo as seguintes informações: 
 <br/>
  O valor total dos abastecimentos, ordenação pelas datas, e informações de cada abastecimento do carro específico:
-![image](https://github.com/EduardoDev94/mf-backend/assets/112581981/066662e9-08eb-402f-8292-fe515ca0c929)
+![image](https://github.com/EduardoDev94/mf-backend/assets/112581981/76b50d1a-ac32-4a21-a97a-19766e64cb34)
+
 
 ### Através do login como admin é visível a aba usuários:
 
